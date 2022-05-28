@@ -1,2 +1,2 @@
 # Console_calculator
-Console calculator for DLL
+Console calculator in C# for DLL
